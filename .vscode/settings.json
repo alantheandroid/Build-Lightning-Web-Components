@@ -22,7 +22,8 @@
     "titleBar.activeBackground": "#065e83",
     "titleBar.activeForeground": "#e7e7e7",
     "titleBar.inactiveBackground": "#065e8399",
-    "titleBar.inactiveForeground": "#e7e7e799"
+    "titleBar.inactiveForeground": "#e7e7e799",
+    "panel.border": "#0881b4"
   },
   "peacock.color": "#065e83",
   "workbench.colorTheme": "Material Theme High Contrast"
